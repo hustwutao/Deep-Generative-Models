@@ -1,0 +1,12 @@
+{
+  "dataset": "mnist",
+  "result_path": "results",
+  "tensorboard_path": "tensorboard",
+  "checkpoint_path": "checkpoint",
+  "experiment_path": "experimental",
+  "num_epochs": 10,
+  "g_lr": 2e-4,
+  "d_lr": 2e-4,
+  "batch_size": 64,
+  "latent_dim": 100
+}
